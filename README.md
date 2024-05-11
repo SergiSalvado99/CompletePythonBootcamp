@@ -1,2 +1,1 @@
-# CompletePythonBootcamp
-This Udemy course teaches From Zero to Hero to develop with Python.
+# The Complete Python Bootcamp From Zero to Hero
